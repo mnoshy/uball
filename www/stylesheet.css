@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Uber Move';
+    src: url('UberMove-Bold.eot');
+    src: url('UberMove-Bold.eot?#iefix') format('embedded-opentype'),
+        url('UberMove-Bold.woff2') format('woff2'),
+        url('UberMove-Bold.woff') format('woff'),
+        url('UberMove-Bold.ttf') format('truetype'),
+        url('UberMove-Bold.svg#UberMove-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
